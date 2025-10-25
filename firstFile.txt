@@ -1,5 +1,5 @@
-This is the first line.123
-This is the second line.123
+This is the first line.123 updated in folder 2
+This is the second line.123 updated in folder 2
 This is the third line.456
 This is the fourth line.456
 This is the fifth line.

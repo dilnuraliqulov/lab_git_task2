@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 This is the first line of the second file.New
 This is the second line of the second file.New
+=======
+This is the first line of the second file.Update
+This is the second line of the second file.Update
+>>>>>>> git_2
 This is the third line of the second file.
 This is the fourth line of the second file.
 This is the fifth line of the second file.
